@@ -1,0 +1,15 @@
+body{
+    background-color: #e4b16f;
+}
+
+.main_div{
+    background-color: #919191;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 350px;
+    margin-bottom: 50px;
+  }
